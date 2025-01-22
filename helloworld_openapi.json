@@ -16,7 +16,7 @@
         "description": "Optional extended description in CommonMark or HTML.",
         "responses": {
           "200": {
-            "description": "A JSON of Hello message",
+            "description": "A JSON of Hello messages",
             "content": {
               "application/json": {
                 "schema": {
