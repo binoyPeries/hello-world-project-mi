@@ -1,0 +1,3 @@
+[submodule "hello-world-projectConfigs"]
+	path = hello-world-projectConfigs
+	url = https://github.com/binoyPeries/hello-world-projectConfigs.git
