@@ -12,7 +12,7 @@
   "paths": {
     "/HelloWorld": {
       "get": {
-        "summary": "Returns a Hello message",
+        "summary": "Returns a Hello messages",
         "description": "Optional extended description in CommonMark or HTML",
         "responses": {
           "200": {
