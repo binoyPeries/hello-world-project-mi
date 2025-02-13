@@ -15,4 +15,4 @@ paths:
     get:
       responses:
         default:
-          description: Default response
+          description: Default responses
