@@ -13,7 +13,7 @@
     "/HelloWorld": {
       "get": {
         "summary": "Returns a Hello messages",
-        "description": "Optional extended description in CommonMark or HTML",
+        "description": "Optional extended description in CommonMark or HTMLss",
         "responses": {
           "200": {
             "description": "A JSON of Hello messagess",
